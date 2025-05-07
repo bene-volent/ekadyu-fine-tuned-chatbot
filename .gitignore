@@ -1,0 +1,12 @@
+# Ignore everything except app.py, chatbot.py, and auth directory
+*
+!app.py
+!chatbot.py
+!auth/
+!auth/**
+!requirements.txt
+!readme.md
+!.gitignore
+
+**/__pycache__
+**/__pycache__/**
